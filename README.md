@@ -5,13 +5,15 @@
 - In BF4, players collect 'Dog Tags'. (See Image Above)
 - Dog Tags are collected from enemy players.
 - Players can equip Dog Tags they have collected from enemy players.
-- There are 720 collectible Dog Tags in BF4. 
+- There are 720 collectable Dog Tags in BF4. 
 - There are 288 left-side Dog Tags and 432 right-side Dog Tags.
-- I have collected 368 out of 720 available Dog Tags.  
+- I have collected 368 out of the 720 collectable Dog Tags.  
+- I have collected 273 out of the 288 collectible left-side Dog Tags.
+- I have collected 95 out of the 431 collectable right-side Dog Tags.
 
-### LEFT-SIDE DOG TAG COLLECTION
+### COLLECTION: LEFT-SIDE DOG TAGS
 
-|Category   |Collected|Available|
+|Category   |Collected|Collectable|
 |-----------|---------|---------|
 |Exclusive  |0        |4        |
 |MISC       |1        |1        |
@@ -22,8 +24,8 @@
 |Total      |273      |288      |
 
 
-### RIGHT-SIDE DOG TAG COLLECTION
-|Category   |Collected|Available|
+### COLLECTION: RIGHT-SIDE DOG TAGS
+|Category   |Collected|Collectable|
 |-----------|---------|---------|
 |MISC       |2        |3        |
 |Kits       |7        |10       |
