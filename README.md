@@ -1,6 +1,5 @@
 ![Dog Tags](Images/Dog_Tags.png)
-## Battlefield: Dog Tags
-1. [iMorphTV's Battlefield Dog Tags](https://battlelog.battlefield.com/bf4/soldier/iMorph/dogtags/779661039/32/#premium-second-assault-dog-tag)
+## About Battlefield: Dog Tags
 - Battlefield 4 is a large-scale war FPS/sandbox video game.
 - In BF4, players collect 'Dog Tags'. (See Image Above)
 - Dog Tags are collected from enemy players.
@@ -12,7 +11,9 @@
 - I have collected 273 out of the 288 collectable left-side Dog Tags.
 - I have collected 95 out of the 431 collectable right-side Dog Tags.
 
-### COLLECTION: LEFT-SIDE DOG TAGS
+### MY DOG TAG COLLECTION: 
+
+1. LEFT-SIDE DOG TAGS 
 
 |Category   |Collected|Collectable|
 |-----------|---------|---------|
@@ -25,7 +26,8 @@
 |Total      |273      |288      |
 
 
-### COLLECTION: RIGHT-SIDE DOG TAGS
+2. RIGHT-SIDE DOG TAGS  
+
 |Category   |Collected|Collectable|
 |-----------|---------|---------|
 |MISC       |2        |3        |
@@ -42,3 +44,6 @@
 |Battepacks |32       |51       |
 |Weapons    |7        |130      |
 |Total      |95       |431      |
+
+Link to My Battlefield Dog Tag Collection: 
+- [iMorphTV's Battlefield Dog Tags](https://battlelog.battlefield.com/bf4/soldier/iMorph/dogtags/779661039/32/#premium-second-assault-dog-tag)
