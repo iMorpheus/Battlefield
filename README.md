@@ -20,3 +20,22 @@
 |Multiplayer|9        |15       |
 |Flags      |250      |250      |
 |Total      |273      |288      |
+
+
+### RIGHT-SIDE DOG TAG COLLECTION
+|Category   |Collected|Available|
+|-----------|---------|---------|
+|MISC       |2        |3        |
+|Kits       |7        |10       |
+|Exclusive  |2        |12       |
+|Service Stars|3        |12       |
+|Missions   |0        |18       |
+|Single Player|1        |22       |
+|Permium    |22       |23       |
+|Promotions |6        |25       |
+|Vehicles   |0        |36       |
+|Multiplayer|4        |39       |
+|Medals     |9        |50       |
+|Battepacks |32       |51       |
+|Weapons    |7        |130      |
+|Total      |95       |431      |
