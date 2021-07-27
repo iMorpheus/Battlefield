@@ -26,7 +26,7 @@
 |Flags      |250      |250        |
 |Total      |273      |288        |
 
-2. RIGHT-SIDE DOG TAGS  
+2. [RIGHT-SIDE DOG TAGS](Right_Dog_Tags.csv)  
 
 |Category   |Collected|Collectable|
 |-----------|---------|---------|
