@@ -47,4 +47,4 @@
 |Total      |95       |431      |
 
 Link to My Battlefield Dog Tag Collection: 
-- [iMorphTV's Battlefield Dog Tags](https://battlelog.battlefield.com/bf4/soldier/iMorph/dogtags/779661039/32/#premium-second-assault-dog-tag)
+- [iMorphTV's Currently Equipped Battlefield Dog Tags](https://battlelog.battlefield.com/bf4/soldier/iMorph/dogtags/779661039/32/#premium-second-assault-dog-tag)
