@@ -17,15 +17,14 @@
 1. LEFT-SIDE DOG TAGS 
 
 |Category   |Collected|Collectable|
-|-----------|---------|---------|
-|Exclusive  |0        |4        |
-|MISC       |1        |1        |
-|Ranks      |5        |5        |
-|Permium    |8        |13       |
-|Multiplayer|9        |15       |
-|Flags      |250      |250      |
-|Total      |273      |288      |
-
+|-----------|---------|-----------|
+|MISC       |1        |1          |
+|Exclusive  |0        |4          |
+|Ranks      |5        |5          |
+|Permium    |8        |13         |
+|Multiplayer|9        |15         |
+|Flags      |250      |250        |
+|Total      |273      |288        |
 
 2. RIGHT-SIDE DOG TAGS  
 
