@@ -14,7 +14,7 @@
 
 ### MY DOG TAG COLLECTION: 
 
-1. LEFT-SIDE DOG TAGS 
+1. [LEFT-SIDE DOG TAGS](Left_Dog_Tags.csv) 
 
 |Category   |Collected|Collectable|
 |-----------|---------|-----------|
