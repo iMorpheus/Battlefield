@@ -1,9 +1,10 @@
 ![Dog Tags](Images/Dog_Tags.png)
-## About Battlefield: Dog Tags
+## Battlefield: Dog Tags Overview
 - Battlefield 4 is a large-scale war FPS/sandbox video game.
 - In BF4, players collect 'Dog Tags'. (See Image Above)
 - Dog Tags are collected from enemy players.
 - Players can equip Dog Tags they have collected from enemy players.
+## Battlefield: Dog Tags Collection
 - There are 720 collectable Dog Tags in BF4. 
 - There are 288 left-side Dog Tags 
 - There are 432 right-side Dog Tags.
